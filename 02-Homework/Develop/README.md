@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Main Objective of the project is to refactor Horiseon website html code to include semantic html elements. Websites with semantic html are more accesible and rank higher in search engines like Google, thus providing oppotunity for more business. Main tasks include refactor html and css to include semantic elements and to refactor the overall code to remove redundant html tags and css elements.
+Main Objective of the project is to refactor Horiseon website html code to include semantic html elements. Websites with semantic html are more accesible and rank higher in search engines like Google, Bing and Yahoo thus providing oppotunity for business growth. Main tasks include refactor html and css to include semantic elements and to refactor the overall code to remove redundant html tags and css elements. No Change to application funtionalit is desired or expected.
 
 ## Tasks Completed
 
@@ -10,6 +10,10 @@ Main Objective of the project is to refactor Horiseon website html code to inclu
     -   Consolidated CSS elements by removing redundant enteries
     -   Arranged CSS as per html flow
     -   Put Comments in CSS to explain different sections
+
+## Testing and Verification
+
+Verified all links are working and there is no commented out, undesired code. Verified functionality and found no change to the functionality of website.
 
 ## Observations and Learning opportunity
 
